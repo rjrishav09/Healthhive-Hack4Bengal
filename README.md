@@ -75,11 +75,6 @@ Contributions are welcome! Follow these steps:
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE).
-
----
 
 ## 👥 Team
 
@@ -90,15 +85,10 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE).
 
 ---
 
-## 🙌 Acknowledgments
-
-Thanks to our mentors and peers for their guidance.
-
----
 
 ## 📞 Contact
 
 For queries or feedback:  
-Email: your.email@example.com  
-GitHub: [@yourusername](https://github.com/yourusername)  
-LinkedIn: [Your Profile](https://www.linkedin.com/in/yourprofile)
+Email: deepmoitra2@gmail.com  
+GitHub: [@rjrishav09](https://github.com/rjrishav09)  
+LinkedIn: [Your Profile](https://www.linkedin.com/in/rishav-bhardwaj-203b45221/)
