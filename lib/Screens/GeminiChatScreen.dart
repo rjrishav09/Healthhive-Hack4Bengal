@@ -25,7 +25,7 @@ class _GeminiChatScreenState extends State<GeminiChatScreen> {
   @override
   void initState() {
     super.initState();
-    final apiKey = dotenv.env['AIzaSyDxQggauTV_jhEBvJ6qDfrtsj9otzOptMM']!;
+    final apiKey = dotenv.env['']!;
     _model = GenerativeModel(model: 'gemini-pro', apiKey: apiKey);
     _chat = _model.startChat();
   }

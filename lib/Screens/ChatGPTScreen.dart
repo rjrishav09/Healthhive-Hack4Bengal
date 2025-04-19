@@ -29,7 +29,7 @@ class _ChatGptScreenState extends State<ChatGptScreen> {
   @override
   void initState() {
     super.initState();
-    OpenAI.instance.build(token: "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",baseOption:
+    OpenAI.instance.build(token:"",baseOption:
     HttpSetup(receiveTimeout: const Duration(seconds: 5)),isLogger: true);
   }
 
