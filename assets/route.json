@@ -1,0 +1,47 @@
+{
+  "diseases": [
+    {
+      "name": "Common Cold",
+      "symptoms": [
+        "sneezing",
+        "runny nose",
+        "sore throat"
+      ]
+    },
+    {
+      "name": "Flu",
+      "symptoms": [
+        "fever",
+        "headache",
+        "fatigue",
+        "body ache"
+      ]
+    },
+    {
+      "name": "COVID-19",
+      "symptoms": [
+        "fever",
+        "cough",
+        "shortness of breath",
+        "loss of taste"
+      ]
+    },
+    {
+      "name": "Malaria",
+      "symptoms": [
+        "fever",
+        "chills",
+        "nausea",
+        "vomiting"
+      ]
+    },
+    {
+      "name": "Migraine",
+      "symptoms": [
+        "headache",
+        "nausea",
+        "sensitivity to light"
+      ]
+    }
+  ]
+}

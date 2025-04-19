@@ -1,0 +1,46 @@
+{
+  "diseases": [
+    {
+      "name": "Diabetes",
+      "diet": [
+        "Eat high-fiber foods like vegetables, legumes, and whole grains",
+        "Avoid sugary snacks and beverages",
+        "Include lean proteins like chicken and fish"
+      ],
+      "treatment_time": "3-6 months (ongoing monitoring required)",
+      "medicine": [
+        "Metformin",
+        "Insulin (if needed)",
+        "Glipizide"
+      ]
+    },
+    {
+      "name": "Hypertension",
+      "diet": [
+        "Reduce salt intake",
+        "Increase potassium-rich foods like bananas and spinach",
+        "Avoid fried and processed food"
+      ],
+      "treatment_time": "2-4 months",
+      "medicine": [
+        "Amlodipine",
+        "Lisinopril",
+        "Hydrochlorothiazide"
+      ]
+    },
+    {
+      "name": "Asthma",
+      "diet": [
+        "Avoid dairy products if sensitive",
+        "Include anti-inflammatory foods like leafy greens and turmeric",
+        "Stay hydrated"
+      ],
+      "treatment_time": "Variable (long-term management)",
+      "medicine": [
+        "Salbutamol",
+        "Fluticasone inhaler",
+        "Montelukast"
+      ]
+    }
+  ]
+}
