@@ -58,7 +58,7 @@ User can get overall details about what this application actually works and they
 
 4. Run the app:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ---
@@ -89,6 +89,6 @@ Contributions are welcome! Follow these steps:
 ## 📞 Contact
 
 For queries or feedback:  
-Email: deepmoitra2@gmail.com  
+Email: crazyrishavhacker@gmail.com  
 GitHub: [@rjrishav09](https://github.com/rjrishav09)  
 LinkedIn: [Rishav Bhardwaj](https://www.linkedin.com/in/rishav-bhardwaj-203b45221/)
