@@ -91,4 +91,4 @@ Contributions are welcome! Follow these steps:
 For queries or feedback:  
 Email: deepmoitra2@gmail.com  
 GitHub: [@rjrishav09](https://github.com/rjrishav09)  
-LinkedIn: [Your Profile](https://www.linkedin.com/in/rishav-bhardwaj-203b45221/)
+LinkedIn: [Rishav Bhardwaj](https://www.linkedin.com/in/rishav-bhardwaj-203b45221/)
